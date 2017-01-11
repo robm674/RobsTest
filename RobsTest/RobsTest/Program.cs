@@ -10,7 +10,7 @@ namespace RobsTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is LA LA LA a DORKUS and only a test!");
+            Console.WriteLine("This is LA LA LA a BRANCH and only a test!");
         }
     }
 }
